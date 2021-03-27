@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/grupa.h
+queue
+-
+string
+-
+memory
+-
+ostream
+-
+student.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/student.h
+
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/licenta.h
+grupa.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/grupa.h
+student.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/student.h
+string
+-
+
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/main.cpp
+iostream
+-
+fstream
+-
+student.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/student.h
+grupa.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/grupa.h
+licenta.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/licenta.h
+strategy.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/strategy.h
+
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/strategy.h
+iostream
+-
+grupa.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/grupa.h
+student.h
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/student.h
+
+E:/flori/CTI/an 2/sem 1/Programare orientata pe obiecte/teme/student/student.h
+queue
+-
+string
+-
+memory
+-
+ostream
+-
+utility
+-
+

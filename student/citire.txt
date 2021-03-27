@@ -1,0 +1,28 @@
+3
+CTI
+2
+2
+251
+Veronica 20 9
+Ivona 19 10
+3
+152
+Alex 22 10
+Mihai 20 5
+Bogdan 19 6
+Info
+1
+5
+354
+Gabriela 20 10
+Ana 19 10
+Cosmin 21  8
+Miruna 19 4
+Bianca 22 6
+Mate
+1
+3
+153
+Patricia 19 7
+Natalia 20 5
+Ioana 22 8
